@@ -26,7 +26,7 @@ An interactive Netflix Dashboard built using Power BI to analyze Netflix movies 
 
 # Dashboard Preview
  <img width="1145" height="651" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/ba772b6a-8b53-4840-a175-028d84a9d463" />
- file for dashboard screenshots and analysis.
+
 
 # Author
 Chetan Patil
